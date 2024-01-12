@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101219994960",
+    "project_id": "loginscreen-a9d17",
+    "storage_bucket": "loginscreen-a9d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101219994960:android:08738b2e3e8abce47b7055",
+        "android_client_info": {
+          "package_name": "com.example.createuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2gsxOl30u7nvDf0mt7_G-dCnGfSUPra4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101219994960:android:8976d768323fc9407b7055",
+        "android_client_info": {
+          "package_name": "com.example.loginscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2gsxOl30u7nvDf0mt7_G-dCnGfSUPra4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
